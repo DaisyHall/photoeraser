@@ -1,4 +1,4 @@
-#[photoeraser.com]( www.jihosoft.com/photo/photo-eraser.html )
+[Photoeraser.com]( www.jihosoft.com/photo/photo-eraser.html )
 ====
 Photo Eraser is a photo editor🎨 to remove unwanted objects, persons, watermarks, texts, skin blemishes etc from photos, and restore damaged old photos.
 
@@ -14,4 +14,4 @@ PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF, etc.
 
 🎉 www.jihosoft.com/photo/photo-eraser.html
 
-💡 API, Blog, Learn, Translations
+💡 [Blog](https://www.jihosoft.com/photo/)
